@@ -1,0 +1,64 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IceBot.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="hostName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="port" Type="System.UInt16" Scope="User">
+      <Value Profile="(Default)">9987</Value>
+    </Setting>
+    <Setting Name="username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="sport" Type="System.UInt16" Scope="User">
+      <Value Profile="(Default)">10011</Value>
+    </Setting>
+    <Setting Name="nickname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">IceBot</Value>
+    </Setting>
+    <Setting Name="autoconnect" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="outputdevice" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="inputdevice" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="musicdirs" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /&gt;</Value>
+    </Setting>
+    <Setting Name="startshuffled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="steamusername" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="steampassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="steamenabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="steamautostart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="sqlDatabase" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">venomsqlj</Value>
+    </Setting>
+    <Setting Name="sqlHostname" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">sql.venom.jeremyferguson.me</Value>
+    </Setting>
+    <Setting Name="sqlUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">arcreflex</Value>
+    </Setting>
+    <Setting Name="sqlPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">arcreflex112233</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
